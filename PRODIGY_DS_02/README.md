@@ -1,8 +1,8 @@
 # Task Description
-  This task involves performing data cleaning and exploratory data analysis (EDA) on a dataset of choice, such as the Titanic dataset from Kaggle. The goal is to:
-	•	Clean the data by handling missing values, duplicates, and inconsistencies.
-	•	Explore relationships between variables.
-	•	Identify patterns and trends in the dataset.
+This task involves performing data cleaning and exploratory data analysis (EDA) on a dataset of choice, such as the Titanic dataset from Kaggle. The goal is to:
+Clean the data by handling missing values, duplicates, and inconsistencies.
+1. Explore relationships between variables.
+2. Identify patterns and trends in the dataset.
 
 # Dataset
 	•	The dataset used: Titanic - Machine Learning from Disaster 
