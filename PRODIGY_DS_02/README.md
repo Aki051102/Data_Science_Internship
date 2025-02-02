@@ -12,7 +12,7 @@ The dataset used: Titanic - Machine Learning from Disaster
 # Requirements
 Install the required Python libraries:
 
-	•	pip install pandas numpy seaborn matplotlib scikit-learn
+    pip install pandas numpy seaborn matplotlib scikit-learn
 
 
 
