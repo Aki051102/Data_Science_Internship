@@ -4,7 +4,7 @@ This task involves creating a bar chart or histogram to visualize the distributi
 # Requirements
 Install necessary Python libraries:
 
-    pip install matplotlib pandas numpy scikit-learn
+    pip install matplotlib pandas numpy seaborn
 # Dataset
 
 • Dataset Name: Bank Marketing
