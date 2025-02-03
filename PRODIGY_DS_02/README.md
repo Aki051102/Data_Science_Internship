@@ -22,11 +22,17 @@ Install the required Python libraries:
 1. Data Cleaning
    
    • Checked for missing values and handled them using appropriate techniques.
+   
    • Removed duplicates and handled outliers.
+   
    • Standardized column names and formats.
    
 2. Exploratory Data Analysis (EDA)
+   
    • Summary statistics of numerical and categorical features.
+   
    • Distribution plots (histograms, boxplots, bar charts).
+   
    • Correlation analysis between numerical features.
+   
    • Relationship analysis using scatter plots and pair plots.
