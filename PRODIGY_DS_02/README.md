@@ -6,6 +6,7 @@ Clean the data by handling missing values, duplicates, and inconsistencies.
 
 # Dataset
 The dataset used: Titanic - Machine Learning from Disaster 
+
 • Link: https://www.kaggle.com/c/titanic/data
 • Columns include: Name,Sex,Age,Ticket,etc...
 
